@@ -74,7 +74,7 @@ html {
 }
 
 .logo {
-  max-height: 250px;
+  max-height: 130px;
   object-fit: contain;
 }
 
